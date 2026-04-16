@@ -1,8 +1,8 @@
 # Feriansyah-Putra_Pemrograman-1
 
 Feriansyah Putra Sjaefudin
-241011400387
-O4TPLP009
+_241011400387
+_O4TPLP009
 
 
 Tugas Dan Latihan Pemrograman 1
